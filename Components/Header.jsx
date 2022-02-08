@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from 'next/Image'
+import Image from 'next/image'
 import logo from '../images/airbnblogo.png'
 import SearchIcon from '@mui/icons-material/Search';
 import LanguageIcon from '@mui/icons-material/Language';
