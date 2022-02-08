@@ -5,7 +5,7 @@ import BannerImage from '../images/airbnb banner.jpg'
 function Banner() {
     return (
         [
-        <div className='z-[0] relative h-[400px] bg-black flex justify-center '>
+        <div className="z-[0] relative h-[400px] bg-black flex justify-center">
         <Image src={BannerImage} layout='fill' objectFit='cover'></Image>
         <div className="relative top-1/2 text-center h-[fit-content] ">
             <p className='text-[1.7rem] font-semibold'>Not sure where to go? Perfect.</p>
